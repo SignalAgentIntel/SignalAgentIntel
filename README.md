@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/banner.svg" width="250" alt="Signal"/>
+  <img src="public/banner.svg" width="650" alt="Signal"/>
   <br/><br/>
 
   <h1>SIGNAL</h1>
